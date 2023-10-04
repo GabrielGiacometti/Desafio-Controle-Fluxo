@@ -1,0 +1,7 @@
+
+#ignorar os arquivos .class
+*.class
+
+#ignora a past build
+/build/
+
